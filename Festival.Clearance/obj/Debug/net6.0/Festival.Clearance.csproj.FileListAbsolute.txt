@@ -1,0 +1,15 @@
+C:\Users\carls\OneDrive\Desktop\festival-badge-project\Festival.Clearance\bin\Debug\net6.0\Festival.Clearance.exe
+C:\Users\carls\OneDrive\Desktop\festival-badge-project\Festival.Clearance\bin\Debug\net6.0\Festival.Clearance.deps.json
+C:\Users\carls\OneDrive\Desktop\festival-badge-project\Festival.Clearance\bin\Debug\net6.0\Festival.Clearance.runtimeconfig.json
+C:\Users\carls\OneDrive\Desktop\festival-badge-project\Festival.Clearance\bin\Debug\net6.0\Festival.Clearance.dll
+C:\Users\carls\OneDrive\Desktop\festival-badge-project\Festival.Clearance\bin\Debug\net6.0\Festival.Clearance.pdb
+C:\Users\carls\OneDrive\Desktop\festival-badge-project\Festival.Clearance\obj\Debug\net6.0\Festival.Clearance.csproj.AssemblyReference.cache
+C:\Users\carls\OneDrive\Desktop\festival-badge-project\Festival.Clearance\obj\Debug\net6.0\Festival.Clearance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carls\OneDrive\Desktop\festival-badge-project\Festival.Clearance\obj\Debug\net6.0\Festival.Clearance.AssemblyInfoInputs.cache
+C:\Users\carls\OneDrive\Desktop\festival-badge-project\Festival.Clearance\obj\Debug\net6.0\Festival.Clearance.AssemblyInfo.cs
+C:\Users\carls\OneDrive\Desktop\festival-badge-project\Festival.Clearance\obj\Debug\net6.0\Festival.Clearance.csproj.CoreCompileInputs.cache
+C:\Users\carls\OneDrive\Desktop\festival-badge-project\Festival.Clearance\obj\Debug\net6.0\Festival.Clearance.dll
+C:\Users\carls\OneDrive\Desktop\festival-badge-project\Festival.Clearance\obj\Debug\net6.0\refint\Festival.Clearance.dll
+C:\Users\carls\OneDrive\Desktop\festival-badge-project\Festival.Clearance\obj\Debug\net6.0\Festival.Clearance.pdb
+C:\Users\carls\OneDrive\Desktop\festival-badge-project\Festival.Clearance\obj\Debug\net6.0\Festival.Clearance.genruntimeconfig.cache
+C:\Users\carls\OneDrive\Desktop\festival-badge-project\Festival.Clearance\obj\Debug\net6.0\ref\Festival.Clearance.dll
