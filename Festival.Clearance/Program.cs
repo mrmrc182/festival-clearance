@@ -19,9 +19,9 @@ namespace Festival.Clearance
                 {
                     break;
                 }
-                Console.Write("Please enter employee last name: ");
+                Console.WriteLine("Please enter employee last name: ");
                 string lastName = Console.ReadLine();
-                Console.Write("Please enter employee ID: ");
+                Console.WriteLine("Please enter clearance level: ");
                 int clearanceLevel = Int32.Parse(Console.ReadLine());
                 Employee currentEmployee = new Employee(firstName, lastName, clearanceLevel);
                 employees.Add(currentEmployee);
