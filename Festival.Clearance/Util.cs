@@ -12,23 +12,22 @@ namespace Festival.Clearance
         {
             for (int i = 0; i < employees.Count; i++)
             {
-                string template = "{0,-10}\t{1,-20}\t{2}";
+                string template = "{0}, {1}";
                 Console.WriteLine(String.Format(template, employees[i].GetName(), employees[i].GetClearanceLevel()));
             }
         }
         public static void MakeCSV(List<Employee> employees)
         {
-
-            using (StreamWriter file = new StreamWriter("data/employees.csv"))
-            {
-                if (!Directory.Exists("data"))
+            if (!Directory.Exists("data"))
                 {
                     Directory.CreateDirectory("data");
                 }
+            using (StreamWriter file = new StreamWriter("data/employees.csv"))
+            {
                 file.WriteLine("Name, Clearance Level");
                 for (int i = 0; i < employees.Count; i++)
                 {
-                    string template = "{0}, {1}";
+                    string template = "{0},{1}";
                     file.WriteLine(String.Format(template, employees[i].GetName(), employees[i].GetClearanceLevel()));
                 }
             }
